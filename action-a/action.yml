@@ -10,8 +10,8 @@ inputs:
 
 runs:
   using: "docker"
-  image: "Dockerfile.test"
+  image: "Dockerfile"
 
 branding:
   icon: "mic"
-  color: "purple"
+  color: "red"
